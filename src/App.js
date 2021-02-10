@@ -55,7 +55,7 @@ function App() {
 
   const calculate = () => {
     try {
-      //Valida si hay potencia.
+      //Valida si hay potencia..
       if (num.includes('²')) {
         let copy = '';
         for (let i = 0; i < num.length; i++) {
