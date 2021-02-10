@@ -1,0 +1,121 @@
+{
+    "btn" :[
+        {
+            "className": "item1",
+            "type": "button",
+            "value": "7",
+            "function": "{capturaDato}"
+        },
+        {
+            "className": "item2",
+            "type": "button",
+            "value": "8"
+        },
+        {
+            "className": "item3",
+            "type": "button",
+            "value": "9"
+        },
+        {
+            "className": "item4",
+            "type": "button",
+            "value": "/"
+        },
+        {
+            "className": "item5",
+            "type": "button",
+            "value": "C"
+        },
+        {
+            "className": "item6",
+            "type": "button",
+            "value": "CE"
+            
+        },
+        {
+            "className": "item7",
+            "type": "button",
+            "value": "4"
+        },
+        {
+            "className": "item8",
+            "type": "button",
+            "value": "5"
+        },
+        {
+            "className": "item9",
+            "type": "button",
+            "value": "6"
+        },
+        {
+            "className": "item10",
+            "type": "button",
+            "value": "*"
+        },
+        {
+            "className": "item11",
+            "type": "button",
+            "value": "("
+        },
+        {
+            "className": "item12",
+            "type": "button",
+            "value": ")"
+        },
+        {
+            "className": "item13",
+            "type": "button",
+            "value": "1"
+        },
+        {
+            "className": "item14",
+            "type": "button",
+            "value": "2"
+        },
+        {
+            "className": "item15",
+            "type": "button",
+            "value": "3"
+        },
+        {
+            "className": "item16",
+            "type": "button",
+            "value": "-"
+        },
+        {
+            "className": "item17",
+            "type": "button",
+            "value": "²"
+        },
+        {
+            "className": "item18",
+            "type": "button",
+            "value": "√"
+        },
+        {
+            "className": "item19",
+            "type": "button",
+            "value": "0"
+        },
+        {
+            "className": "item20",
+            "type": "button",
+            "value": "."
+        },
+        {
+            "className": "item21",
+            "type": "button",
+            "value": "%"
+        },
+        {
+            "className": "item22",
+            "type": "button",
+            "value": "+"
+        },
+        {
+            "className": "itemSpecial",
+            "type": "button",
+            "value": "="
+        }
+   ]
+}

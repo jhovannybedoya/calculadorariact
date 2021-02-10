@@ -1,0 +1,59 @@
+* {
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+}
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  /* background-image: url('./assets/fondo2.jpg'); */
+}
+.container {
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 1px #292929;
+}
+.screen {
+  height: 3rem;
+  min-width:85vw;
+  background-color: #f0f0f0;
+  border-radius: 10px 10px 0px 0px;
+}
+.screen > input {
+  padding: 0;
+  width: 98%;
+  text-align: right;
+  display: block;
+  margin: auto;
+  /*overflow: auto;*/
+}
+.itemSpecial {
+  grid-area: igual;
+}
+.grid-container {
+  display: grid;
+  grid-template-areas:
+  '. . . . . .'
+  '. . . . . .'
+  '. . . . . .'
+  '. . . . igual igual';
+  grid-gap: .45rem;
+  background-color: teal;
+  padding: .7rem;
+  border-radius: 0px 0px 10px 10px;
+}  
+.grid-container > div {
+  background-color: #fffffff6;
+  text-align: center;
+  border-radius: .3rem;
+}
+button, input {
+  width: 100%;
+  background: none;
+  color: inherit;
+  border: none;
+  padding: .3rem 0;
+  font-size: inherit;
+  height: 100%;
+}
